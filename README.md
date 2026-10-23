@@ -1,1 +1,1 @@
-link: alpha-ide.vercel.app
+link: alpha-ide.vercel.app/
